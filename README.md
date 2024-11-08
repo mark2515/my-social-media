@@ -1,6 +1,6 @@
 # my-social-media
 
-This project integrates Firebase for seamless Google authentication, allowing users to sign in and out effortlessly. It features the ability to create posts, view posts shared by others, and engage with the community through a like functionality. [Visit Here](https://my-social-media-beta.vercel.app/)
+A project for practicing Google Firebase services. [Visit Here](https://my-social-media-beta.vercel.app/)
 
 ## Available Scripts
 
